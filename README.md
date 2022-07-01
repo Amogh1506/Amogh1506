@@ -6,7 +6,7 @@
  
 - :computer: I’m currently working as ...
 
-  - <b> Quantum Tech Incubation Director </b>
+  - <b> Quantum Tech Incubation - Senior Director </b>
 
 - 📫 How to reach me ...
 
