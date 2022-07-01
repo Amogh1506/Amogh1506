@@ -1,4 +1,4 @@
-- :Pray: <b> Hi, I’m Amogh </b>
+-  <b>:pray: Hi, I’m Amogh </b>
 
 - :star: I’m interested in ...
 
