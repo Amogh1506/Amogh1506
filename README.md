@@ -1,10 +1,10 @@
-- 👋 <b> Hi, I’m Amogh </b>
+- :Pray: <b> Hi, I’m Amogh </b>
 
-- 👀 I’m interested in ...
+- :star: I’m interested in ...
 
   -  <b>  <tab> :atom: Quantum Computing :atom:  ⚛️ Quantum Machine Learning ⚛️ </b>
  
-- 🌱 I’m currently working as ...
+- :computer: I’m currently working as ...
 
   - <b> Quantum Tech Incubation Director </b>
 
